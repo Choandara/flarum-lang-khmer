@@ -1,11 +1,11 @@
 # Changelog
 
-## [0.1.0-beta.14.1](https://github.com/Choandara/flarum-lang-khmer/compare/v0.1.0-beta.14...v0.1.0-beta.14.1)
+## [0.1.0-beta.14.1](https://github.com/keochoandara/flarum-lang-khmer/compare/v0.1.0-beta.14...v0.1.0-beta.14.1)
 
 ### Fixed
 - Missing translation keys for edited post (#163)
 
-## [0.1.0-beta.14](https://github.com/Choandara/flarum-lang-khmer/compare/v0.1.0-beta.13...v0.1.0-beta.14)
+## [0.1.0-beta.14](https://github.com/keochoandara/flarum-lang-khmer/compare/v0.1.0-beta.13...v0.1.0-beta.14)
 
 ### Added
 - Keys for extension dependency errors (#172)
@@ -25,7 +25,7 @@
 - Keys for mandrill email driver
 - Keys for SES email driver
 
-## [0.1.0-beta.13](https://github.com/Choandara/flarum-lang-khmer/compare/v0.1.0-beta.12...v0.1.0-beta.13)
+## [0.1.0-beta.13](https://github.com/keochoandara/flarum-lang-khmer/compare/v0.1.0-beta.12...v0.1.0-beta.13)
 
 ### Added
 - Keys for hidden permission groups (#153, flarum/core#2129, flarum/core#845)

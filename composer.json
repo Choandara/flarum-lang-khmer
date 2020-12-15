@@ -1,5 +1,5 @@
 {
-    "name": "Choandara/flarum-lang-khmer",
+    "name": "keochoandara/flarum-lang-khmer",
     "type": "flarum-extension",
     "description": "Khmer language pack.",
     "keywords": ["locale"],
